@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81137255048",
+    "firebase_url": "https://paymentapp-aa561-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "paymentapp-aa561",
+    "storage_bucket": "paymentapp-aa561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81137255048:android:dd51a4ae0705083229153d",
+        "android_client_info": {
+          "package_name": "com.example.payment_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81137255048-6t5fk1jqgrmuvtmnvqr205hki58vs0si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ2O1LFheB3cQWbpDwIl18q7Drjnqksf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81137255048-6t5fk1jqgrmuvtmnvqr205hki58vs0si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

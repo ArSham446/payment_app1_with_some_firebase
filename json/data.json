@@ -1,0 +1,26 @@
+[
+    {
+        "brand": "KenGen Power",
+        "date": "12-01-18",
+        "status": false,
+        "due" :"1200.00",
+        "more":"Pay befor",
+        "img":"images/brand1.png"
+    },
+    {
+        "brand": "Tech Power",
+        "date": "12-11-18",
+        "status": false,
+        "due" :"1400.00",
+        "more":"You must pay now",
+        "img":"images/brand2.png"
+    },
+    {
+        "brand": "Airtel Power",
+        "date": "06-08-18",
+        "status": false,
+        "due" :"1800.00",
+        "more":"Due in 3 days",
+        "img":"images/brand3.png"
+    }
+]
